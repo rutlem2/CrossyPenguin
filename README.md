@@ -1,5 +1,6 @@
 # CrossyPenguin
 Frogger-style game created in Unity.
+![SP_gif](https://user-images.githubusercontent.com/107207412/210163406-f79da747-feea-47fe-80f8-96be2ab07e5d.gif)
 
 A game created in Unity where players guide penguins across a busy mountain road by clicking on them.
 Avoid traffic and get penguins to their igloos to win.
